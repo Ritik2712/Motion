@@ -58,6 +58,21 @@ npx convex dev
 
 ```
 
+### Setup Authentication
+
+Edit the convex/auth.config.js and enter your clerk authentication url like 
+
+```js
+export default {
+  providers: [
+    {
+      domain: "https://<your_link>",
+      applicationID: "convex",
+    },
+  ],
+};
+```
+
 ### Start the app
 
 ```shell
