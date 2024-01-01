@@ -1,4 +1,4 @@
-#Notion Clone: Next.js, React, Convex, Tailwind 
+# Notion Clone: Next.js, React, Convex, Tailwind 
 
 Key Features:
 
